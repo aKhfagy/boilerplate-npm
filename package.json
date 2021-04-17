@@ -1,15 +1,22 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Ahmed Khfagy",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+    "name": "fcc-learn-npm-package-json",
+    "author": "Ahmed Khfagy",
+    "description": "Free Code Camp, APIs and Microservices, first module work",
+    "keywords": [
+        "freecodecamp",
+        "npm"
+    ],
+    "license": "MIT",
+    "version": "1.2.0",
+    "dependencies": {
+        "express": "^4.14.0"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://idontknow/todo.git"
+    }
 }
